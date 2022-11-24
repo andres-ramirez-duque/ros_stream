@@ -1,4 +1,4 @@
-# ros_stream
+# Ros_stream
 ROS Wrapper of [whisper.cpp](https://github.com/ggerganov/whisper.cpp) model 
 
 ### Prerequisites
